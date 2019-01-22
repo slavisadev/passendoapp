@@ -1,6 +1,6 @@
-# vue-simple-tasks
+# passendo app
 
-Simple app using Vue with Bootstrap 4.
+Simple app with steps
 
 ####Includes Vuex showcase pattern and a simple router example.
 
